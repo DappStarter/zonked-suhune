@@ -1,0 +1,17 @@
+{
+    "name": "Nagi",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/collection/entity": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token/name": "NAGI",
+        "/category/asset_value_tracking/token/symbol": "NAGI",
+        "/category/asset_value_tracking/token/decimals": "12",
+        "/category/asset_value_tracking/token/supply": "50000"
+    }
+}
